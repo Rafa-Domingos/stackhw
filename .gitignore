@@ -1,0 +1,6 @@
+.stack-work/
+.dist/
+Setup.o
+Setup.hi
+stackhw.cabal
+*~
